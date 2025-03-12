@@ -1,0 +1,5 @@
+transformers
+faiss-gpu
+faiss-cpu
+sentence-transformers
+datasets
