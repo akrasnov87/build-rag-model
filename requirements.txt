@@ -3,3 +3,5 @@ faiss-gpu
 faiss-cpu
 sentence-transformers
 datasets
+sentencepiece
+transformers[sentencepiece]
